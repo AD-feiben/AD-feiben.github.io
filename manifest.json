@@ -1,0 +1,9 @@
+{
+  "name": "前端develop",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "icons": [{
+    "sizes": "180x180",
+    "src": "https://blog.fedevelop.cn/imgs/logo.png"
+  }]
+}

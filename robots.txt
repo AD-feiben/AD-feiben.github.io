@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https:/www.fedevelop.cn/sitemap.xml
+Host: https://www.fedevelop.cn
